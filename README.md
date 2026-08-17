@@ -2,7 +2,7 @@
 
 Taksi verilerini analiz etmek ve görselleştirmek için oluşturulan interaktif Excel Pivot Dashboard projesi.
 
-## 📋 Proje Hakkında
+##  Proje Hakkında
 
 Bu proje, büyük ölçekli taksi veri setini kullanarak:
 - **Veri analizi** ve görselleştirme
@@ -12,7 +12,7 @@ Bu proje, büyük ölçekli taksi veri setini kullanarak:
 
 amaçlarıyla oluşturulmuştur.
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 excel-pivot-dashboard-project/
@@ -20,7 +20,7 @@ excel-pivot-dashboard-project/
 └── README.md           # Bu dosya
 ```
 
-## 🚀 Başlarken
+##  Başlarken
 
 ### Gereksinimler
 - Microsoft Excel 2016 veya sonrası
@@ -40,21 +40,21 @@ cd excel-pivot-dashboard-project
 
 3. Excel dosyalarını açın ve pivot tabloları inceleyebilirsiniz
 
-## 📊 Veri Seti
+##  Veri Seti
 
 **Kaynak:** Taxi Veri Seti
 - Taksi işlemlerine ait veriler
 - Yolculuk bilgileri
 - Ücret ve ödeme detayları
 
-## 🔍 Ana Özellikler
+##  Ana Özellikler
 
-- ✅ Pivot tablo analizi
-- ✅ Dinamik dashboard
-- ✅ Kategorisel veri görselleştirme
-- ✅ İstatistiksel özetler
+-  Pivot tablo analizi
+-  Dinamik dashboard
+-  Kategorisel veri görselleştirme
+-  İstatistiksel özetler
 
-## 📈 Veri Analizi Örnekleri
+##  Veri Analizi Örnekleri
 
 Dashboard üzerinde aşağıdaki analizleri yapabilirsiniz:
 - Günlük/aylık yolculuk sayıları
@@ -62,24 +62,13 @@ Dashboard üzerinde aşağıdaki analizleri yapabilirsiniz:
 - Popüler rotalar
 - Kullanıcı segmentasyonu
 
-## 🛠️ Kullanılan Araçlar
+##  Kullanılan Araçlar
 
 - Microsoft Excel / LibreOffice Calc
 - Pivot Table & Pivot Chart
 - Data Visualization
 
-## 👤 Yazar
+##  Yazar
 
 **aysenuroguz12** - [GitHub Profili](https://github.com/aysenuroguz12)
 
-## 📞 İletişim
-
-Sorularınız veya önerileriniz varsa, issues açabilirsiniz.
-
-## 📝 Lisans
-
-Bu proje açık kaynaklıdır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
----
-
-**Son Güncelleme:** 17 Ağustos 2026
